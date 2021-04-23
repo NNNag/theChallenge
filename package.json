@@ -1,0 +1,21 @@
+{
+  "name": "thescore",
+  "version": "1.0.0",
+  "description": "theScore challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Naveen Nagularapu",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.13.16",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/register": "^7.13.16",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}
